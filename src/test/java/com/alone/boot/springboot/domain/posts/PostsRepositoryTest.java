@@ -1,4 +1,4 @@
-package com.alone.boot.springboot.web.domain.posts;
+package com.alone.boot.springboot.domain.posts;
 
 import com.alone.boot.springboot.domain.posts.Posts;
 import com.alone.boot.springboot.domain.posts.PostsRepository;
